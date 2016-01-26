@@ -17,4 +17,4 @@ class HelloWorld {
     }
 }
 
-bootstrap(HelloWorld)
+bootstrap(HelloWorld);
