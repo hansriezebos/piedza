@@ -1,5 +1,5 @@
 {
-  "name": "angular2-piedza",
+  "name": "angular2-tour-of-heroes",
   "version": "1.0.0",
   "scripts": {
     "tsc": "tsc",
